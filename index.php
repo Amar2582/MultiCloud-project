@@ -1,5 +1,5 @@
 Welcome to Amardeep Kumar's web page.
-SquD
+SquaD
 <pre>
 <html>
 <body>
