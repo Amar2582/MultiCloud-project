@@ -1,4 +1,4 @@
-Welcome to Amardeep Kumar's page.
+Welcome to Amardeep Kumar's web page.
 SquD
 <pre>
 <html>
