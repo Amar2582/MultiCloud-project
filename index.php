@@ -1,9 +1,10 @@
-Welcome to Amardeep Kumar's page.\n SQUAD
+Welcome to Amardeep Kumar's page.
+SquD
 <pre>
 <html>
 <body>
 <?php
-print "https://amar2582.s3.ap-south-1.amazonaws.com/Squd.jpg";
+print "ifconfig";
 ?>
 </body>
 </html>
