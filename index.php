@@ -1,13 +1,16 @@
-Welcome to Amardeep Kumar's web page.
-SquaD
-<pre>
+<!Doctype html>
 <html>
-<body>
-<?php
-print "https://amar2582.s3.ap-south-1.amazonaws.com/Squd.jpg";
-![](C:\Users\AMAR\Pictures\Squd.jpg)
-![](images/screenshot.png)
-?>
-</body>
-</html>
-</pre>
+     <head>
+       <title>Amar SQUAD</title>
+       <style>
+         h1 {text-align: center;}
+       </style>
+  </head>
+  <body>
+    
+    <h1>Life is partly what we make it, and partly what it is made by the friends we choose</h1>
+    <img src="https://amar2582.s3.ap-south-1.amazonaws.com/Squd.jpg" width="100%" height="100%>
+                                                                                          </body>
+                                                                                          </html>
+                                           
+                                                                                     
